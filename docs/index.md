@@ -1,14 +1,15 @@
 # Estructuras Complejas
 
 Bienvenido al curso de estructuras complejas de otoño 2023 en la Universidad Anáhuac México.
-Este curso es un curso en línea @prende 
+Este curso es un curso en línea @prende y estará en esta página durante todo el semestre. Cada semana tendremos una pequeña interacción y una tarea para poder ir siguiendo tu progreso.
 
-## Commands
+## Estructura del Curso
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Cada semana tendremos un tema nuevo que tendrás que revisar con el contenido de este sitio.
+* Cuando termines de estudiar el material del curso, tendrás que entregar una tarea referente al tema de la semana.
+* La página de cada semana tendrá la información del tema, ligas de interés y el vpinculo para entregar la tarea. 
+* Además de las tareas de cada semana, existirá un proyecto semestral que deberás de ir desarrollando durante el curso. Puede ser que las tareas estén relacionadas al proyecto final.
+* La evaluación de medio términao será un examen teórico/práctico en línea.
 
 ## Project layout
 
