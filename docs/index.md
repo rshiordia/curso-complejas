@@ -1,3 +1,8 @@
+---
+title: Inicio
+---
+
+
 ![portada](./img/portada.jpg)
 # Estructuras Complejas
 
@@ -19,5 +24,6 @@ Este curso es un curso en línea @prende y estará en esta página durante todo 
 ### Empieza por aquí.
 
 - Para empezar a estudiar el contenido del curso, [haz click aquí](./Contenido%20Semanal/s1.md)
-- Para poder seguir la conversación, [conéctate al servidor de discord.](https://discord.gg/uzQ73Jm9)
-- En cualquier momento, me puedes escribir directamente a: rodrigo.shiordia@anahuac.mx
+- Para poder seguir la conversación,    
+[conéctate al servidor de discord.](https://discord.gg/uzQ73Jm9){ .md-button }
+- En cualquier momento, me puedes escribir directamente a: [rodrigo.shiordia@anahuac.mx](mailto:rodrigo.shiordia@anahuac.mx)
