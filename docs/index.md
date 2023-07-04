@@ -1,4 +1,4 @@
-![portada](../img/portada.jpg)
+![portada](./img/portada.jpg)
 # Estructuras Complejas
 
 Bienvenido al curso de estructuras complejas de otoño 2023 en la Universidad Anáhuac México.
@@ -14,7 +14,7 @@ Este curso es un curso en línea @prende y estará en esta página durante todo 
 
 ## Acerca de
 
-- Este curso es para alumnos y alumnas de la Universidad Anpáhuac México.
+- Este curso es para alumnos y alumnas de la Universidad Anáhuac México.
 
 ### Empieza por aquí.
 
