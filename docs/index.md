@@ -11,19 +11,19 @@ Este curso es un curso en línea @prende y estará en esta página durante todo 
 
 ## Estructura del Curso
 
-* Cada semana tendremos un tema nuevo que tendrás que revisar con el contenido de este sitio.
-* Cuando termines de estudiar el material del curso, tendrás que entregar una tarea referente al tema de la semana.
-* La página de cada semana tendrá la información del tema, ligas de interés y el vpinculo para entregar la tarea.
+* Cada semana tendremos contenido nuevo que tendrás que revisar en este sitio.
+* Cuando termines de estudiar el material de la semana, tendrás que entregar una tarea referente al tema de la semana.
+* Los módulos de cada semana tendrán la información del tema, ligas de interés y el vpinculo para entregar la tarea.
 * Además de las tareas de cada semana, existirá un proyecto semestral que deberás de ir desarrollando durante el curso. Puede ser que las tareas estén relacionadas al proyecto final.
 * La evaluación de medio términao será un examen teórico/práctico en línea.
 
 ## Acerca de
 
 - Este curso es para alumnos y alumnas de la Universidad Anáhuac México.
+- Puedes revisar el calendario del curso en [esta página](./calendario.md)
 
 ### Empieza por aquí.
 
-- Para empezar a estudiar el contenido del curso, [haz click aquí](./Contenido%20Semanal/s1.md)
-- Para poder seguir la conversación,    
-[conéctate al servidor de discord.](https://discord.gg/uzQ73Jm9){ .md-button }
-- En cualquier momento, me puedes escribir directamente a: [rodrigo.shiordia@anahuac.mx](mailto:rodrigo.shiordia@anahuac.mx)
+- [Conéctate al servidor de discord](https://discord.gg/uzQ73Jm9){ .md-button }
+- [Mándame un correo](mailto:rodrigo.shiordia@anahuac.mx){ .md-button }
+- [¡Empezar el curso!](./Contenido%20Semanal/s1.md){ .md-button }

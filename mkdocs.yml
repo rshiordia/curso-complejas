@@ -7,9 +7,12 @@ site_url: https://rshiordia.github.io/curso-complejas/
 
 theme:
   name: material
+  features:
+    - navigation.tabs
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - footnotes
   - toc:
       title: Contenido
