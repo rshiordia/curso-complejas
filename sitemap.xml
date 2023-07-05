@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rshiordia.github.io/curso-complejas/</loc>
-         <lastmod>2023-07-04</lastmod>
+         <lastmod>2023-07-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rshiordia.github.io/curso-complejas/calendario/</loc>
+         <lastmod>2023-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rshiordia.github.io/curso-complejas/Contenido%20Semanal/s1/</loc>
-         <lastmod>2023-07-04</lastmod>
+         <lastmod>2023-07-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rshiordia.github.io/curso-complejas/Contenido%20Semanal/s2/</loc>
+         <lastmod>2023-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
