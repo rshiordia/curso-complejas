@@ -15,12 +15,15 @@ Este curso es un curso en línea @prende y estará en esta página durante todo 
 * Cuando termines de estudiar el material de la semana, tendrás que entregar una tarea referente al tema de la semana.
 * Los módulos de cada semana tendrán la información del tema, ligas de interés y el vpinculo para entregar la tarea.
 * Además de las tareas de cada semana, existirá un proyecto semestral que deberás de ir desarrollando durante el curso. Puede ser que las tareas estén relacionadas al proyecto final.
-* La evaluación de medio términao será un examen teórico/práctico en línea.
+* La evaluación de medio término será un examen teórico/práctico en línea.
+* Cada semana habrá, además de la tarea de la semana, una actividad extra que te ayudará en caso de que te falte alguna tarea semanal.
+
 
 ## Acerca de
 
 - Este curso es para alumnos y alumnas de la Universidad Anáhuac México.
 - Puedes revisar el calendario del curso en [esta página](./calendario.md)
+- Consulta la [forma de evaluación](./evaluacion.md)
 
 ### Empieza por aquí.
 
